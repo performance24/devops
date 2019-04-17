@@ -1,1 +1,1 @@
-pull request 1
+pull requests 1
